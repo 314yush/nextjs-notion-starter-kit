@@ -72,7 +72,7 @@
   text-overflow: unset;
 }
 .notion-collection-header-title {
-  font-size: 28px !important;
+  font-size: 0px !important;
 }
 .notion-gallery-grid .notion-property-text {
   font-size: 14px;
