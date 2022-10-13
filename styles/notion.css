@@ -16,6 +16,9 @@
   padding-bottom: calc(max(5vh, 32px)) !important;
   line-height: 1.65;
 }
+.notion-page-scroller {
+  background: #1c1c1e !important;
+}
 
 .index-page {
   --notion-max-width: 1200px;
@@ -75,6 +78,7 @@
 .notion-collection-card {
   border-radius: 16px;
   box-shadow: none;
+  background: #1c1c1e !important;
 }
 
 .notion-collection-card-cover img {
