@@ -123,3 +123,6 @@ pre[class*='language-']:before,
 pre[class*='language-']:after {
   display: none !important;
 }
+a.styles_toggleDarkMode__QfgK_ {
+    display: none;
+}
