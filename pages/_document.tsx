@@ -27,7 +27,7 @@ export default class MyDocument extends Document {
 ;(function () {
   var storageKey = 'darkMode'
   var classNameDark = 'dark-mode'
-  var classNameLight = 'light-mode'
+  /* var classNameLight = 'light-mode'*/
   function setClassOnDocumentBody(darkMode) {
     document.body.classList.add(darkMode ? classNameDark : classNameLight)
     document.body.classList.remove(darkMode ? classNameLight : classNameDark)
